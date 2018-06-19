@@ -3,7 +3,7 @@
 
 # Explicit definition.
 #   > Syntax : variable_name=value.
-#    >> No spaces are permittd around the equal sign.
+#    >> No spaces are permitted around the equal sign.
 
 
 foo=date
@@ -25,7 +25,7 @@ foo_sub2=$(date)
 
 # Display the content from the variables
 
-#   > accessing value within the variable use doller sign as perfix
+#   > accessing value within the variable use dollar sign as prefix
 #   > like below
 
 $foo
